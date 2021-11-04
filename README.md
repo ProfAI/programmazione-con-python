@@ -1,2 +1,2 @@
-# py4ai
-Repository Ufficiale del Corso Programmazione con Python per Machine Learning e Artificial Intelligence
+# Programmazione con Python
+Repository Ufficiale del Corso Programmazione con Python di ProfessionAI
